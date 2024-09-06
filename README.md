@@ -1,6 +1,6 @@
 # PatikafyMuzik TR || ENG
 
-##![image](https://github.com/user-attachments/assets/56df6b56-a792-428c-8263-ddf9fed7b1e6)
+![image](https://github.com/user-attachments/assets/56df6b56-a792-428c-8263-ddf9fed7b1e6)
 
 ### Here is a data table for 11 artists. Each row in the table corresponds to an object, and a list containing these objects should be defined. Then, perform the following queries on this list:
 - Singers whose name starts with 'S'.
